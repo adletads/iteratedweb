@@ -15,7 +15,7 @@ export const businessCards: Product[] = [{
     'Unlimited digital updates'
   ],
   price: 'Starting at ₹999/pack',
-  image: 'https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?auto=format&fit=crop&q=80&w=800',
+  image: 'https://cdn.prod.website-files.com/617ac0d059899a69fd8216ec/6372d84fd3c792548b0c0d47_NFC%20Blog%20OG%202-p-800.webp',
   category: 'Business Cards',
   keywords: 'custom visiting cards, NFC business cards, digital visiting cards, custom business cards Kerala, visiting cards'
 }];

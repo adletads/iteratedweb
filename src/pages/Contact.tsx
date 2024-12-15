@@ -23,7 +23,7 @@ export function Contact() {
                 <div className="ml-4">
                   <p className="text-sm font-medium text-gray-900">Email</p>
                   <a href="mailto:adletads@gmail.com" className="text-base text-gray-600 hover:text-blue-600">
-                    adletads@gmail.com
+                    adletadvertisements@gmail.com
                   </a>
                 </div>
               </div>
