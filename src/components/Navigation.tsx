@@ -11,7 +11,7 @@ export function Navigation() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
-              <span className="brand-name text-3xl lg:text-4xl text-blue-600">Adlet</span>
+              <span className="brand-name text-3xl lg:text-5xl text-blue-600">Adlet</span>
             </Link>
           </div>
           
