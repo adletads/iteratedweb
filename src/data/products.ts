@@ -32,7 +32,7 @@ export const products = [
       'Analytics tracking',
       'Unlimited digital updates'
     ],
-    price: 'Starting at ₹999/pack',
+    price: 'Starting at ₹999',
     image: 'https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?auto=format&fit=crop&q=80&w=800',
     category: 'Business Cards',
     keywords: 'custom visiting cards, NFC business cards, digital visiting cards, custom business cards Kerala, visiting cards'
@@ -51,7 +51,7 @@ export const products = [
     "Customer engagement",
     "Secure and private"
   ],
-  "price": "Free with any purchase",
+  "price": "Starting at ₹499",
   "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&q=80&w=800",
   "category": "Review Cards",
   "keywords": "QR code, review card, customer feedback, share experience, reviews, feedback, customer reviews, QR code review, Adlet reviews, Adlet feedback, Adlet QR code"
