@@ -25,7 +25,7 @@ export function Footer() {
               <li>Adlet ads</li>
               <li>Ernakulam</li>
               <li>Kerala</li>
-              <li>Email: adletads@gmail.com</li>
+              <li>Email: adletadvertisements@gmail.com</li>
             </ul>
           </div>
           <div>
