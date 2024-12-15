@@ -13,7 +13,7 @@ export const products = [
       'Long-lasting LED technology',
       'Professional installation service'
     ],
-    price: 'Starting at ₹1,500',
+    price: 'Starting at ₹2,499',
     image: 'https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&q=80&w=800',
     category: 'LED Sign Boards',
     keywords: 'LED sign boards, LED advertising boards, clip on boards, LED displays Kerala, clip-on boards'
