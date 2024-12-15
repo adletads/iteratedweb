@@ -15,6 +15,7 @@ export const DEFAULT_SEO = {
     'sign boards',
     'LED boards',
     'Kerala'
+    'Adlet.in'
   ].join(', ')
 };
 
