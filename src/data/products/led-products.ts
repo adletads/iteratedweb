@@ -16,7 +16,7 @@ export const ledProducts: Product[] = [
       'Professional installation service'
     ],
     price: 'Starting at ₹1,500',
-    image: 'https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&q=80&w=800',
+    image: 'https://brandprofesor.com/wp-content/uploads/2021/09/LED-Clip-On.png',
     category: 'LED Sign Boards',
     keywords: 'LED sign boards, LED advertising boards, clip on boards, LED displays Kerala, clip-on boards'
   },

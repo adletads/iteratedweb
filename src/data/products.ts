@@ -14,7 +14,7 @@ export const products = [
       'Professional installation service'
     ],
     price: 'Starting at ₹2,499',
-    image: 'https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&q=80&w=800',
+    image: 'https://brandprofesor.com/wp-content/uploads/2021/09/LED-Clip-On.png',
     category: 'LED Sign Boards',
     keywords: 'LED sign boards, LED advertising boards, clip on boards, LED displays Kerala, clip-on boards'
   },
@@ -33,7 +33,7 @@ export const products = [
       'Unlimited digital updates'
     ],
     price: 'Starting at ₹999',
-    image: 'https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?auto=format&fit=crop&q=80&w=800',
+    image: 'https://cdn.prod.website-files.com/617ac0d059899a69fd8216ec/6372d84fd3c792548b0c0d47_NFC%20Blog%20OG%202-p-800.webp',
     category: 'Business Cards',
     keywords: 'custom visiting cards, NFC business cards, digital visiting cards, custom business cards Kerala, visiting cards'
   },
@@ -52,7 +52,7 @@ export const products = [
     "Secure and private"
   ],
   "price": "Starting at ₹499",
-  "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&q=80&w=800",
+  "image": "https://letsconnectcard.com/wp-content/uploads/2024/09/Google-Review-NFC-Card-White-reviews-for-google.png",
   "category": "Review Cards",
   "keywords": "QR code, review card, customer feedback, share experience, reviews, feedback, customer reviews, QR code review, Adlet reviews, Adlet feedback, Adlet QR code"
 }
