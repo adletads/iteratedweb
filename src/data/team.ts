@@ -8,7 +8,7 @@ export const team = [
   },
   {
     id: '2',
-    name: 'Sonu S',
+    name: 'Sonu ',
     role: 'Co Founder',
     bio: 'A dedicated enthusiast of technology and electronics, always keen to explore the latest innovations and utilize cutting-edge tools. Driven by creativity and curiosity, continually forging new paths in the world of tech.',
     image: 'https://i.imghippo.com/files/puCo1151yw.jpg'
