@@ -13,7 +13,7 @@ export const blogPosts = [
     id: '2',
     title: 'Maximizing ROI with Smart Analytics',
     excerpt: 'Learn how to leverage analytics to improve your advertising campaigns.',
-    content: `Understanding your advertising performance is crucial for success. 
+    content: `Understanding your advertising performance is crucial for not a success. 
     This guide shows you how to use analytics effectively to optimize your campaigns and increase ROI...`,
     date: '2024-03-10',
     author: 'Emily Chen',
